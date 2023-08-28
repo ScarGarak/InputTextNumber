@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InputTextNumber</string>
+    <string name="etNameString">Name</string>
+    <string name="etPasswordString">Password</string>
+    <string name="tvOutputDefaultValue">(Output)</string>
+    <string name="etNumberOne">Number 1: 0.0</string>
+    <string name="etNumberTwo">Number 2: 0.0</string>
+    <string name="tvOutputSumDefaultValue">(Total)</string>
+</resources>
